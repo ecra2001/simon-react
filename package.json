@@ -12,9 +12,15 @@
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "mongodb": "^6.5.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.3"
-  }
+  },
+  "description": "This deliverable demonstrates introduces the [React](https://react.dev) web framework and [Vite](https://vitejs.dev/) for frontend tooling.",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
